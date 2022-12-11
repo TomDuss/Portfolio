@@ -8,7 +8,7 @@ owl.owlCarousel({
         center: true,
         items: 1,
         nav: false,
-        autoplay: false,
+        autoplay: true,
     },
     600: {
         center: false,
